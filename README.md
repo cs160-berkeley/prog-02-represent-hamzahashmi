@@ -13,6 +13,11 @@ See [your demo video title here] (https://www.youtube.com/watch?v=cFzwONbeAbE)
 ## Screenshots
 
 <img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/1.png" height="400" alt="Screenshot"/>
+<img src="screenshots/2.png" height="400" alt="Screenshot"/>
+<img src="screenshots/3.png" height="400" alt="Screenshot"/>
+<img src="screenshots/4.png" height="400" alt="Screenshot"/>
+
 
 ## Acknowledgments
 
